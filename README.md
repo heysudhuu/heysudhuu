@@ -197,8 +197,10 @@ A gesture-controlled virtual keyboard that enables users to interact with their 
 
 ## 🐍 Contribution Snake
 
+<h2 align="center">🐍 Contribution Snake</h2>
+
 <p align="center">
-  <img src="https://raw.githubusercontent.com/heysudhuu/heysudhuu/output/github-contribution-grid-snake-dark.svg" alt="GitHub contribution snake animation" />
+  <img src="https://raw.githubusercontent.com/heysudhuu/heysudhuu/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake Animation" />
 </p>
 
 ---
