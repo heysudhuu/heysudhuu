@@ -2,7 +2,9 @@
 <!-- ========================================================= -->
 <!-- SUDHANSHU YADAV | CUSTOM HACKER TERMINAL README          -->
 <!-- ========================================================= -->
-
+<p align="center">
+  <img src="assets/matrix_glitch_header.gif" width="100%" />
+</p>
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:000000,50:003B25,100:00FF41&text=SUDHANSHU%20YADAV&fontColor=00FF41&fontSize=42&fontAlignY=38&desc=CYBERSECURITY%20%7C%20AI%20%7C%20COMPUTER%20VISION%20%7C%20FULL%20STACK&descAlignY=60&descSize=14" width="100%"/>
