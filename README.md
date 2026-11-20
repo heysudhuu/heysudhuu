@@ -1,253 +1,342 @@
 
-<!-- ================= HEADER ================= -->
+<!-- ========================================================= -->
+<!--                  CYBERPUNK PROFILE README                   -->
+<!-- ========================================================= -->
 
-<h1 align="center">Hey 👋, I'm Sudhanshu Yadav</h1>
+<div align="center">
 
-<h3 align="center">
-  Computer Science Engineer | Cybersecurity | AI | Computer Vision | Full-Stack Development
-</h3>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:050505,50:101827,100:050505&text=SUDHANSHU%20YADAV&fontColor=00F7FF&fontSize=42&fontAlignY=38&desc=CYBERSECURITY%20%7C%20AI%20%7C%20COMPUTER%20VISION%20%7C%20FULL%20STACK&descAlignY=60&descSize=14" width="100%"/>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=800&color=00F7FF&center=true&vCenter=true&width=850&lines=Building+Real-World+Software;Cybersecurity+%7C+Computer+Vision+%7C+AI;Full-Stack+Developer+%7C+Problem+Solver;Learning+%7C+Building+%7C+Innovating" alt="Typing animation" />
-</p>
+<br/>
 
-<p align="center">
-  <a href="https://github.com/heysudhuu">
-    <img src="https://komarev.com/ghpvc/?username=heysudhuu&style=for-the-badge&color=00F7FF&label=PROFILE+VIEWS" alt="Profile views" />
-  </a>
-  <a href="https://github.com/heysudhuu?tab=followers">
-    <img src="https://img.shields.io/github/followers/heysudhuu?style=for-the-badge&color=blue&label=FOLLOWERS" alt="Followers" />
-  </a>
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=2500&pause=800&color=00F7FF&center=true&vCenter=true&width=750&lines=%3E+Initializing+Developer+Profile...;%3E+Cybersecurity+%7C+Computer+Vision;%3E+AI+%26+Machine+Learning;%3E+Full+Stack+Development;%3E+Building.+Breaking.+Learning.+Improving." />
+
+<br/>
+
+<img src="https://img.shields.io/badge/STATUS-ONLINE-00FF9C?style=for-the-badge&labelColor=050505"/>
+<img src="https://img.shields.io/badge/FOCUS-ENGINEERING-00F7FF?style=for-the-badge&labelColor=050505"/>
+<img src="https://img.shields.io/badge/BUILD-MODE-8A2BE2?style=for-the-badge&labelColor=050505"/>
+
+<br/><br/>
+
+<a href="https://github.com/heysudhuu">
+<img src="https://img.shields.io/github/followers/heysudhuu?style=flat&color=00F7FF&labelColor=050505&logo=github&label=FOLLOWERS"/>
+</a>
+<img src="https://komarev.com/ghpvc/?username=heysudhuu&style=flat&color=8A2BE2&label=PROFILE+VISITORS"/>
+
+</div>
 
 ---
 
-<!-- ================= ABOUT ME ================= -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&duration=2000&pause=10000&color=00F7FF&width=500&lines=%5B+01+%5D+SYSTEM+PROFILE" />
 
 ## 👨‍💻 About Me
 
-I'm a Computer Science Engineering student at **Chandigarh University**, passionate about building practical software solutions using modern technologies.
+```yaml
+Name: Sudhanshu Yadav
+Education: Computer Science Engineering
+University: Chandigarh University
 
-My interests span **Cybersecurity, Artificial Intelligence, Computer Vision, Full-Stack Development, Automation, and Android Development**. I enjoy taking ideas from concept to implementation, experimenting with technologies, and building applications that solve real-world problems.
+Domains:
+  - Cybersecurity
+  - Computer Vision
+  - Artificial Intelligence
+  - Full-Stack Development
+  - Android Development
 
-- 🔭 Currently working on AI, Computer Vision, Cybersecurity & Full-Stack projects
-- 🌱 Exploring Machine Learning, Security Engineering, System Design & Cloud
-- 👯 Open to collaborating on interesting software and open-source projects
-- 💡 Interested in intelligent systems, automation, and innovative products
-- ⚡ Believe in learning by building, debugging, and continuously improving
-- 🎯 Goal: Become a skilled software engineer who builds impactful technology
+Current_Mode: Building real-world projects
+Mission: Turning ideas into working software
+```
+
+I'm a Computer Science Engineering student who enjoys building practical software, experimenting with intelligent systems, exploring security, and solving real-world problems through code.
+
+- 🔐 Exploring cybersecurity and application security
+- 👁️ Building computer vision and AI-powered applications
+- 🌐 Developing full-stack applications and backend services
+- 📱 Exploring Android development with Kotlin
+- ⚙️ Interested in automation, system design, and intelligent tools
+- 🚀 Learning by building, testing, breaking, and improving
+
+<!-- NEON SEPARATOR -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=00F7FF&height=2&section=header&width=100%"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&duration=2000&pause=10000&color=8A2BE2&width=500&lines=%5B+02+%5D+PROJECTS.exe" />
+
+## 🚀 Project Showcase
+
+<table>
+<tr>
+<td width="50%">
+
+### 🛡️ SHIELD
+
+**Cybersecurity Toolkit**
+
+Python-based desktop security toolkit with practical utilities inside an intuitive interface.
+
+`Python` `Security` `Desktop GUI`
+
+<a href="https://github.com/heysudhuu/SHIELD">
+<img src="https://img.shields.io/badge/ACCESS_REPOSITORY-00F7FF?style=for-the-badge&logo=github&logoColor=black"/>
+</a>
+
+</td>
+<td width="50%">
+
+### 🎣 PhishGuard-AI
+
+**Phishing Detection**
+
+Intelligent phishing detection project focused on analyzing suspicious URLs and identifying potential threats.
+
+`JavaScript` `AI` `Cybersecurity`
+
+<a href="https://github.com/heysudhuu/PhishGuard-AI">
+<img src="https://img.shields.io/badge/ACCESS_REPOSITORY-8A2BE2?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 🏏 Cricket AI Analyzer
+
+**Sports Computer Vision**
+
+Analyzes cricket footage using pose estimation and movement analytics.
+
+`Python` `YOLO` `OpenCV`
+
+- Player pose estimation
+- Joint-angle analysis
+- Shot phase detection
+- Performance analytics
+
+<a href="https://github.com/heysudhuu/cricket-ai-analyzer">
+<img src="https://img.shields.io/badge/ACCESS_REPOSITORY-00F7FF?style=for-the-badge&logo=github&logoColor=black"/>
+</a>
+
+</td>
+<td width="50%">
+
+### ✋ Gesture Virtual Keyboard
+
+**Touchless Interaction**
+
+Control virtual keyboard input using real-time hand gestures.
+
+`Python` `OpenCV` `MediaPipe`
+
+- Hand tracking
+- Gesture recognition
+- Virtual typing
+- PyAutoGUI automation
+
+<a href="https://github.com/heysudhuu/Hand-Gesture-Controlled-Virtual-Keyboards">
+<img src="https://img.shields.io/badge/ACCESS_REPOSITORY-8A2BE2?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</td>
+</tr>
+</table>
 
 ---
 
-<!-- ================= PROJECTS ================= -->
+## ⚙️ Currently Building
 
-## 🚀 Featured Projects
+<table>
+<tr>
+<th>PROJECT</th>
+<th>MISSION</th>
+<th>STACK</th>
+</tr>
 
-### 🛡️ [SHIELD](https://github.com/heysudhuu/SHIELD)
+<tr>
+<td>📍 Smart Attendance</td>
+<td>Secure face verification, geofencing & attendance tracking</td>
+<td>Kotlin · Compose · Spring Boot</td>
+</tr>
 
-**Python Desktop Cybersecurity Toolkit**
+<tr>
+<td>🎬 Universal Media Processor</td>
+<td>Media processing and download automation</td>
+<td>React · FastAPI · FFmpeg · Redis · Celery</td>
+</tr>
 
-A desktop cybersecurity toolkit designed to bring useful security utilities together through an intuitive interface.
+<tr>
+<td>📚 PREVU</td>
+<td>Academic resources & previous-year questions</td>
+<td>Next.js · Supabase · Tailwind</td>
+</tr>
 
-- 🔐 Security-focused utilities
-- 🖥️ Desktop application interface
-- 🐍 Python-based implementation
-- 🧩 Modular design
-- ⚙️ Practical security tools
-
----
-
-### 🎣 [PhishGuard-AI](https://github.com/heysudhuu/PhishGuard-AI)
-
-**AI-Powered Phishing Detection**
-
-An intelligent security project designed to analyze suspicious URLs and help identify potential phishing threats.
-
-- 🔎 URL analysis
-- 🚨 Suspicious link detection
-- 🤖 AI-assisted detection
-- 🌐 JavaScript-based implementation
-- 🛡️ Phishing threat analysis
-
----
-
-### 🏏 [Cricket AI Analyzer](https://github.com/heysudhuu/cricket-ai-analyzer)
-
-**Computer Vision-Based Cricket Performance Analysis**
-
-An AI-powered sports analytics application that uses pose estimation and computer vision to analyze cricket movements and shot mechanics.
-
-- 🧠 YOLO-based pose estimation
-- 👤 Player movement and tracking
-- 📐 Joint-angle calculations
-- 🏏 Cricket shot phase detection
-- 📊 Performance scoring and analytics
-- 🎞️ Video processing with OpenCV
-- 📁 CSV data export
+<tr>
+<td>♻️ BharatBin</td>
+<td>Industrial scrap marketplace concept</td>
+<td>React · Supabase · Tailwind</td>
+</tr>
+</table>
 
 ---
 
-### ✋ [Hand Gesture Controlled Virtual Keyboard](https://github.com/heysudhuu/Hand-Gesture-Controlled-Virtual-Keyboards)
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&duration=2000&pause=10000&color=00F7FF&width=500&lines=%5B+03+%5D+TECH_STACK.sys" />
 
-**Touchless Human-Computer Interaction**
-
-A gesture-controlled virtual keyboard that enables users to interact with their computer through hand movements.
-
-- ✋ Real-time hand tracking
-- 👆 Gesture-based typing
-- 👁️ OpenCV & MediaPipe
-- 🖱️ PyAutoGUI automation
-- ⚡ Touchless interaction
-
----
-
-<!-- ================= CURRENT WORK ================= -->
-
-## 🔨 Currently Exploring & Building
-
-| Project | Description | Tech Stack |
-|---|---|---|
-| 📱 Smart Attendance System | Face verification, geofencing & attendance security | Kotlin, Jetpack Compose, Spring Boot |
-| 🎬 Universal Media Link Processor | Media processing & download automation | React, FastAPI, FFmpeg, Redis, Celery |
-| 📚 Prevu | Academic notes & previous-year question resources | Next.js, Supabase, Tailwind |
-| ♻️ BharatBin | Industrial scrap marketplace concept | React, Supabase, Tailwind |
-
----
-
-<!-- ================= TECH STACK ================= -->
-
-## 💻 Tech Stack
+## 🧰 Tech Arsenal
 
 ### Languages
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,html,css,kotlin" alt="Programming languages" />
+<img src="https://skillicons.dev/icons?i=python,js,html,css,kotlin" />
 </p>
 
 ### Frameworks & Libraries
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,vite,tailwind,spring,opencv" alt="Frameworks and libraries" />
+<img src="https://skillicons.dev/icons?i=react,nodejs,nextjs,vite,tailwind,spring,fastapi" />
 </p>
 
-### Backend & Databases
+### AI & Computer Vision
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=postgres,supabase,redis,fastapi" alt="Backend and databases" />
+<img src="https://skillicons.dev/icons?i=opencv" />
 </p>
 
-### Tools & Platforms
+`YOLO` · `MediaPipe` · `Ultralytics` · `PyAutoGUI` · `NumPy`
+
+### Database & Infrastructure
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,linux,vscode,androidstudio,docker" alt="Tools and platforms" />
+<img src="https://skillicons.dev/icons?i=mysql,postgres,supabase,redis,aws,docker" />
+</p>
+
+### Development Tools
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=git,github,linux,vscode,androidstudio,postman" />
 </p>
 
 ---
 
-<!-- ================= INTERESTS ================= -->
+## 🎯 Operational Interests
 
-## 🧠 Areas of Interest
+<div align="center">
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Cybersecurity-111111?style=for-the-badge&logo=kalilinux&logoColor=00F7FF" alt="Cybersecurity" />
-  <img src="https://img.shields.io/badge/Computer_Vision-111111?style=for-the-badge&logo=opencv&logoColor=00F7FF" alt="Computer Vision" />
-  <img src="https://img.shields.io/badge/Artificial_Intelligence-111111?style=for-the-badge&logo=tensorflow&logoColor=00F7FF" alt="Artificial Intelligence" />
-  <img src="https://img.shields.io/badge/Full_Stack_Development-111111?style=for-the-badge&logo=react&logoColor=00F7FF" alt="Full Stack" />
-  <img src="https://img.shields.io/badge/Android_Development-111111?style=for-the-badge&logo=android&logoColor=00F7FF" alt="Android Development" />
-  <img src="https://img.shields.io/badge/Automation-111111?style=for-the-badge&logo=python&logoColor=00F7FF" alt="Automation" />
-</p>
+<img src="https://img.shields.io/badge/01-CYBERSECURITY-00F7FF?style=for-the-badge&labelColor=050505"/>
+<img src="https://img.shields.io/badge/02-COMPUTER_VISION-8A2BE2?style=for-the-badge&labelColor=050505"/>
+<img src="https://img.shields.io/badge/03-AI_&_ML-00FF9C?style=for-the-badge&labelColor=050505"/>
+<br/>
+<img src="https://img.shields.io/badge/04-FULL_STACK-FF00D4?style=for-the-badge&labelColor=050505"/>
+<img src="https://img.shields.io/badge/05-ANDROID-00F7FF?style=for-the-badge&labelColor=050505"/>
+<img src="https://img.shields.io/badge/06-AUTOMATION-8A2BE2?style=for-the-badge&labelColor=050505"/>
 
-- 🔐 Cybersecurity & Security Testing
-- 👁️ Computer Vision & Image Processing
-- 🤖 Artificial Intelligence & Machine Learning
-- 🌐 Full-Stack Web Development
-- 📱 Android Application Development
-- ⚙️ Automation & Intelligent Systems
-- ☁️ Cloud Computing & Infrastructure
-- 📊 Data Analytics & Visualization
+</div>
 
----
-
-<!-- ================= GITHUB STATS ================= -->
-
-## 📊 GitHub Statistics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=heysudhuu&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" height="180" alt="GitHub statistics" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=heysudhuu&layout=compact&theme=tokyonight&hide_border=true" height="180" alt="Most used languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=heysudhuu&theme=tokyonight&hide_border=true" alt="GitHub streak" />
-</p>
+- Application Security & Security Testing
+- Computer Vision & Image Processing
+- Artificial Intelligence & Machine Learning
+- Web Engineering & API Development
+- Android Application Development
+- Automation & Intelligent Systems
+- Cloud Infrastructure & Deployment
+- Software Architecture & System Design
 
 ---
 
-<!-- ================= ACTIVITY GRAPH ================= -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&duration=2000&pause=10000&color=8A2BE2&width=500&lines=%5B+04+%5D+GITHUB+MONITOR" />
 
-## 📈 Contribution Activity
+## 📊 GitHub Analytics
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=heysudhuu&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="GitHub contribution activity graph" />
-</p>
+<div align="center">
 
----
+<img src="https://github-readme-stats.vercel.app/api?username=heysudhuu&show_icons=true&theme=tokyonight&hide_border=true&bg_color=050505&title_color=00F7FF&icon_color=8A2BE2&text_color=E6EDF3&rank_icon=github&include_all_commits=true" width="48%"/>
 
-<!-- ================= SNAKE ================= -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=heysudhuu&layout=compact&theme=tokyonight&hide_border=true&bg_color=050505&title_color=00F7FF&text_color=E6EDF3" width="48%"/>
 
-## 🐍 Contribution Snake
+<br/>
 
-<h2 align="center">🐍 Contribution Snake</h2>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=heysudhuu&theme=tokyonight&hide_border=true&background=050505&ring=00F7FF&fire=8A2BE2&currStreakLabel=00F7FF" width="70%"/>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/heysudhuu/heysudhuu/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake Animation" />
-</p>
+</div>
 
 ---
 
-<!-- ================= CONNECT ================= -->
+## 🏆 Achievement Matrix
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=heysudhuu&theme=matrix&no-frame=true&no-bg=true&margin-w=8" width="95%"/>
+
+</div>
+
+---
+
+## 📡 Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=heysudhuu&bg_color=050505&color=00F7FF&line=8A2BE2&point=00FF9C&area=true&hide_border=true" width="100%"/>
+
+</div>
+
+---
+
+## 🐍 Contribution Snake Protocol
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/heysudhuu/heysudhuu/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Contribution Snake Animation"/>
+
+</div>
+
+---
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&duration=2000&pause=10000&color=00F7FF&width=500&lines=%5B+05+%5D+ESTABLISH+CONNECTION" />
 
 ## 🌐 Connect With Me
 
-<p align="center">
-  <a href="https://heysudhuu.github.io/my-portfolio/">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-00F7FF?style=for-the-badge&logo=googlechrome&logoColor=black" alt="Portfolio" />
-  </a>
-  <a href="https://www.linkedin.com/in/heysudhu">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://www.hackerrank.com/profile/hey_sudhu">
-    <img src="https://img.shields.io/badge/HackerRank-Profile-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank" />
-  </a>
-  <a href="https://www.instagram.com/hey.sudhu">
-    <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
-</p>
+<div align="center">
+
+<a href="https://heysudhuu.github.io/my-portfolio/">
+<img src="https://img.shields.io/badge/PORTFOLIO-00F7FF?style=for-the-badge&logo=googlechrome&logoColor=black"/>
+</a>
+
+<a href="https://www.linkedin.com/in/heysudhu">
+<img src="https://img.shields.io/badge/LINKEDIN-8A2BE2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://www.hackerrank.com/profile/hey_sudhu">
+<img src="https://img.shields.io/badge/HACKERRANK-00FF9C?style=for-the-badge&logo=hackerrank&logoColor=black"/>
+</a>
+
+<a href="https://www.instagram.com/hey.sudhu">
+<img src="https://img.shields.io/badge/INSTAGRAM-FF00D4?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+<a href="https://github.com/heysudhuu">
+<img src="https://img.shields.io/badge/GITHUB-111111?style=for-the-badge&logo=github&logoColor=00F7FF"/>
+</a>
+
+</div>
 
 ---
 
-<!-- ================= FOOTER ================= -->
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=650&lines=Build.+Learn.+Innovate.+Repeat.;Code+is+the+tool.+Ideas+are+the+engine.;Always+exploring+what's+next." alt="Animated footer" />
-</p>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=00F7FF" width="100%"/>
 
-<p align="center">
-  <b>Building • Learning • Experimenting • Shipping 🚀</b>
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=%3E+SYSTEM+OUTRO;%3E+BUILDING+THE+FUTURE+ONE+COMMIT+AT+A+TIME;%3E+CODE.+LEARN.+EVOLVE." />
 
-<p align="center">
-  <i>Turning ideas into code, and code into real-world solutions.</i>
-</p>
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Cybersecurity+Enthusiast;Computer+Vision+Developer;Full+Stack+Engineer;Building+Things+That+Actually+Work" />
-</p>
+### ` [ SYSTEM STATUS: ALWAYS BUILDING ] `
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=heysudhuu&theme=tokyonight&no-frame=true&margin-w=8" width="95%" />
-</p>
+<sub>Turning ideas into code, and code into real-world solutions.</sub>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=heysudhuu&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=heysudhuu&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
-</p>
+<br/>
+
+<img src="https://img.shields.io/badge/END_OF_TRANSMISSION-00F7FF?style=for-the-badge&labelColor=050505"/>
+
+</div>
+
+<!-- ========================================================= -->
+<!--                    END OF TRANSMISSION                     -->
+<!-- ========================================================= -->
