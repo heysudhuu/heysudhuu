@@ -1,16 +1,13 @@
 
 <!-- ========================================================= -->
-<!-- SUDHANSHU YADAV | CUSTOM HACKER TERMINAL README          -->
+<!-- SUDHANSHU YADAV | LINUX TERMINAL PROFILE                  -->
 <!-- ========================================================= -->
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:000000,50:003B25,100:00FF41&text=SUDHANSHU%20YADAV&fontColor=00FF41&fontSize=42&fontAlignY=38&desc=CYBERSECURITY%20%7C%20AI%20%7C%20COMPUTER%20VISION%20%7C%20FULL%20STACK&descAlignY=60&descSize=14" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=190&color=0:000000,50:003B25,100:00FF41&text=SUDHANSHU%20YADAV&fontColor=00FF41&fontSize=42&fontAlignY=38&desc=CYBERSECURITY%20%7C%20AI%20%7C%20COMPUTER%20VISION%20%7C%20FULL%20STACK&descAlignY=60&descSize=14" width="100%"/>
 
-<p align="center">
-  <img src="assets/matrix_glitch_header.gif" width="100%" />
-</p>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=2000&pause=700&color=00FF41&center=true&vCenter=true&width=850&lines=%3E+BOOTING+DEVELOPER+SYSTEM...;%3E+CYBERSECURITY+MODULE+INITIALIZED;%3E+COMPUTER+VISION+ENGINE+ONLINE;%3E+FULL+STACK+ENVIRONMENT+READY;%3E+ACCESS+GRANTED+%7C+WELCOME+TO+MY+PROFILE" alt="Terminal animation"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=2000&pause=700&color=00FF41&center=true&vCenter=true&width=850&lines=%3E+BOOTING+DEVELOPER+SYSTEM...;%3E+CYBERSECURITY+MODULE+INITIALIZED;%3E+COMPUTER+VISION+ENGINE+ONLINE;%3E+FULL+STACK+ENVIRONMENT+READY;%3E+ACCESS+GRANTED" />
 
 <br/>
 
@@ -18,7 +15,7 @@
 <img src="https://img.shields.io/badge/OPERATOR-CSE_ENGINEER-00D9FF?style=for-the-badge&labelColor=000000"/>
 <img src="https://img.shields.io/badge/MODE-BUILDING-FF00FF?style=for-the-badge&labelColor=000000"/>
 
-<br/>
+<br/><br/>
 
 <img src="https://komarev.com/ghpvc/?username=heysudhuu&label=PROFILE%20VISITS&color=00ff41&style=flat-square"/>
 
@@ -26,37 +23,34 @@
 
 ---
 
-<!-- ================= SYSTEM BOOT ================= -->
-
-<h3>⛧ SYSTEM BOOT SEQUENCE</h3>
+## `./boot.sh`
 
 ```text
 ┌──────────────────────────────────────────────────────────────────┐
-│                  SUDHANSHU.DEV :: TERMINAL                    │
+│  sudhu@github:~$ ./boot.sh                                   │
 ├──────────────────────────────────────────────────────────────────┤
-│                                                              │
-│  > Initializing developer environment............... [ OK ]   │
-│  > Loading Python modules.......................... [ OK ]   │
-│  > Computer vision engine......................... [ OK ]   │
-│  > Cybersecurity core............................. [ OK ]   │
-│  > Full-stack environment......................... [ OK ]   │
-│  > GitHub connection............................. [ OK ]   │
-│                                                              │
-│  OPERATOR : SUDHANSHU YADAV                                   │
-│  STATUS   : ONLINE                                              │
-│  MODE    : BUILD / LEARN / EXPERIMENT                           │
-│                                                              │
-│  >> SYSTEM READY                                                 │
+│                                                                │
+│  [ OK ] Developer environment initialized                       │
+│  [ OK ] Python runtime loaded                                   │
+│  [ OK ] AI modules initialized                                  │
+│  [ OK ] Computer vision engine loaded                           │
+│  [ OK ] Cybersecurity core activated                            │
+│  [ OK ] GitHub connection established                            │
+│                                                                │
+│  OPERATOR : Sudhanshu Yadav                                    │
+│  ROLE     : Computer Science Engineer                           │
+│  CAMPUS  : Chandigarh University                                │
+│  STATUS   : ONLINE                                                │
+│                                                                │
+│  >> ALL SYSTEMS OPERATIONAL                                     │
+│  >> ACCESS GRANTED                                                │
+│  >> READY TO BUILD _                                               │
 └──────────────────────────────────────────────────────────────────┘
 ```
 
 ---
 
-<!-- ================= ABOUT ME ================= -->
-
 ## `whoami`
-
-<img align="right" width="145" src="https://media.giphy.com/media/3o7qE1YN7mZ5sN5YkM/giphy.gif" alt="Coding animation"/>
 
 ```yaml
 name: Sudhanshu Yadav
@@ -68,6 +62,7 @@ domains:
   - Artificial Intelligence
   - Computer Vision
   - Full-Stack Development
+  - Android Development
   - Software Engineering
 
 status: Building | Learning | Exploring
@@ -77,39 +72,39 @@ I'm a Computer Science Engineering student passionate about building practical s
 
 I enjoy turning ideas into real-world applications, experimenting with AI-powered tools, exploring cybersecurity, and building software that solves practical problems.
 
-- 🔐 Exploring cybersecurity and security testing
-- 👁️ Developing computer vision applications
-- 🤖 Experimenting with AI and machine learning
-- 🌐 Building full-stack applications
-- 📱 Exploring Android development
-- ⚙️ Learning automation, cloud and system design
+```text
+sudhu@github:~$ cat interests.txt
 
-<br clear="right"/>
+[01] Cybersecurity & Security Testing
+[02] Artificial Intelligence & Machine Learning
+[03] Computer Vision & Automation
+[04] Full-Stack Web Development
+[05] Android Application Development
+[06] Cloud Computing & System Design
+```
 
 ---
-
-<!-- ================= DASHBOARD ================= -->
 
 ## `system.dashboard`
 
-<div align="center">
-
-| SYSTEM MODULE | STATUS | CURRENT FOCUS |
-|:---|:---:|:---|
-| 🔐 CYBERSECURITY | 🟢 ACTIVE | Security & testing |
-| 👁️ COMPUTER VISION | 🟢 ONLINE | AI vision systems |
-| 🌐 FULL STACK | 🟢 ACTIVE | Web applications |
-| 📱 ANDROID | 🟢 ACTIVE | Mobile development |
-| 🤖 AI / ML | 🟡 EXPLORING | Intelligent systems |
-| ☁️ CLOUD | 🟡 EXPLORING | Infrastructure |
-
-</div>
+```text
+┌──────────────────────── SYSTEM MONITOR ────────────────────────────┐
+│                                                                │
+│  MODULE                  STATUS           CURRENT FOCUS          │
+│  ──────────────────────────────────────────────────────────────  │
+│  CYBERSECURITY           [ ACTIVE ]       Security & Testing    │
+│  COMPUTER VISION         [ ONLINE ]       AI Vision Systems    │
+│  FULL STACK             [ ACTIVE ]       Web Applications     │
+│  ANDROID                [ ACTIVE ]       Mobile Development  │
+│  AI / ML               [ EXPLORING ]   Intelligent Systems  │
+│  CLOUD                 [ EXPLORING ]   Infrastructure       │
+│                                                                │
+└──────────────────────────────────────────────────────────────────┘
+```
 
 ---
 
-<!-- ================= PROJECTS ================= -->
-
-## `project.database`
+## `tree -L 1 ~/projects`
 
 <div align="center">
 
@@ -117,43 +112,46 @@ I enjoy turning ideas into real-world applications, experimenting with AI-powere
 
 </div>
 
+```text
+sudhu@github:~/projects$ tree -L 1
+
+projects/
+├── SHIELD
+├── PhishGuard-AI
+├── Cricket-AI-Analyzer
+├── Hand-Gesture-Virtual-Keyboard
+├── Smart-Attendance-System
+├── Universal-Media-Processor
+├── PREVU
+└── BharatBin
+
+8 directories indexed.
+```
+
+### `repository.index`
+
 <table>
 <tr>
 <td width="50%">
 
-### 🛡️ SHIELD
+**[01] 🛡️ SHIELD**
 
-**Python Desktop Cybersecurity Toolkit**
+`Python` · `Cybersecurity`
 
-A desktop cybersecurity toolkit designed to bring security-focused utilities together through an intuitive interface.
+Python desktop cybersecurity toolkit with security-focused utilities and modular functionality.
 
-- Security utility modules
-- Desktop application interface
-- Python implementation
-- Modular architecture
-
-<a href="https://github.com/heysudhuu/SHIELD">
-<img src="https://img.shields.io/badge/ACCESS_REPOSITORY-00FF41?style=for-the-badge&logo=github&logoColor=black"/>
-</a>
+<a href="https://github.com/heysudhuu/SHIELD">[ ACCESS REPOSITORY ↗ ]</a>
 
 </td>
-
 <td width="50%">
 
-### 🎣 PhishGuard-AI
+**[02] 🎣 PhishGuard-AI**
 
-**AI-Powered Phishing Detection**
+`JavaScript` · `AI Security`
 
-A phishing detection project designed to analyze suspicious URLs and identify potential phishing threats.
+Phishing detection project designed to analyze suspicious URLs and identify potential phishing threats.
 
-- URL analysis
-- Suspicious link detection
-- AI-assisted security analysis
-- JavaScript-based development
-
-<a href="https://github.com/heysudhuu/PhishGuard-AI">
-<img src="https://img.shields.io/badge/ACCESS_REPOSITORY-00D9FF?style=for-the-badge&logo=github&logoColor=black"/>
-</a>
+<a href="https://github.com/heysudhuu/PhishGuard-AI">[ ACCESS REPOSITORY ↗ ]</a>
 
 </td>
 </tr>
@@ -161,43 +159,35 @@ A phishing detection project designed to analyze suspicious URLs and identify po
 <tr>
 <td width="50%">
 
-### 🏏 Cricket AI Analyzer
+**[03] 🏏 Cricket AI Analyzer**
 
-**Computer Vision Sports Analytics**
+`Python` · `YOLOv8` · `OpenCV`
 
-An AI-powered cricket analysis application using pose estimation and computer vision to analyze cricket movements and shot mechanics.
+AI-powered cricket analytics using pose estimation and computer vision.
 
-- YOLO pose estimation
 - Player movement analysis
 - Joint angle calculations
 - Shot phase detection
 - Performance scoring
-- OpenCV video processing
 - CSV export
 
-<a href="https://github.com/heysudhuu/cricket-ai-analyzer">
-<img src="https://img.shields.io/badge/ACCESS_REPOSITORY-FF00FF?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+<a href="https://github.com/heysudhuu/cricket-ai-analyzer">[ ACCESS REPOSITORY ↗ ]</a>
 
 </td>
-
 <td width="50%">
 
-### ✋ Hand Gesture Virtual Keyboard
+**[04] ✋ Hand Gesture Virtual Keyboard**
 
-**Touchless Human-Computer Interaction**
+`OpenCV` · `MediaPipe` · `PyAutoGUI`
 
-A gesture-controlled keyboard enabling users to interact with a computer through hand movements.
+Touchless computer interaction using hand tracking and gesture-based keyboard control.
 
 - Real-time hand tracking
-- Gesture-based typing
-- OpenCV & MediaPipe
-- PyAutoGUI automation
-- Touchless interaction
+- Gesture recognition
+- Virtual typing
+- Desktop automation
 
-<a href="https://github.com/heysudhuu/Hand-Gesture-Controlled-Virtual-Keyboards">
-<img src="https://img.shields.io/badge/ACCESS_REPOSITORY-FFD700?style=for-the-badge&logo=github&logoColor=black"/>
-</a>
+<a href="https://github.com/heysudhuu/Hand-Gesture-Controlled-Virtual-Keyboards">[ ACCESS REPOSITORY ↗ ]</a>
 
 </td>
 </tr>
@@ -205,38 +195,45 @@ A gesture-controlled keyboard enabling users to interact with a computer through
 
 ---
 
-<!-- ================= ACTIVE PROJECTS ================= -->
+## `systemctl --list-projects`
 
-## `active.processes`
+```text
+sudhu@github:~/workspace$ systemctl status projects
 
-| PROJECT | OBJECTIVE | TECHNOLOGY |
+● smart-attendance.service       BUILDING
+● universal-media.service       BUILDING
+● prevu.service                ONLINE
+● bharatbin.service            PLANNING
+
+4 project services loaded.
+```
+
+| Project | Technology | Status |
 |---|---|---|
-| 📍 Smart Attendance System | Secure attendance, geofencing & verification | Kotlin, Compose, Spring Boot |
-| ⚙️ Universal Media Link Processor | Media processing & automation | React, FastAPI, FFmpeg, Redis, Celery |
-| 📚 Prevu | Academic resources & PYQs | Next.js, Supabase, Tailwind |
-| ♻️ BharatBin | Industrial scrap marketplace | React, Supabase, Tailwind |
+| Smart Attendance System | Kotlin, Compose, Spring Boot | `BUILDING` |
+| Universal Media Processor | React, FastAPI, FFmpeg, Redis, Celery | `BUILDING` |
+| PREVU | Next.js, Supabase, Tailwind | `ONLINE` |
+| BharatBin | React, Supabase, Tailwind | `PLANNING` |
 
 ---
 
-<!-- ================= TECH STACK ================= -->
-
-## `tech.stack`
+## `cat tech-stack.txt`
 
 <div align="center">
 
-### PROGRAMMING LANGUAGES
+### `[ PROGRAMMING LANGUAGES ]`
 
 <img src="https://skillicons.dev/icons?i=python,js,html,css,kotlin&theme=dark"/>
 
-### FRAMEWORKS & LIBRARIES
+### `[ FRAMEWORKS & LIBRARIES ]`
 
 <img src="https://skillicons.dev/icons?i=react,nodejs,vite,tailwind,spring,opencv,fastapi&theme=dark"/>
 
-### DATABASE & BACKEND
+### `[ DATABASE & BACKEND ]`
 
 <img src="https://skillicons.dev/icons?i=postgres,mysql,supabase,redis&theme=dark"/>
 
-### TOOLS & PLATFORMS
+### `[ TOOLS & PLATFORMS ]`
 
 <img src="https://skillicons.dev/icons?i=git,github,linux,vscode,androidstudio,docker,aws&theme=dark"/>
 
@@ -244,12 +241,10 @@ A gesture-controlled keyboard enabling users to interact with a computer through
 
 ---
 
-<!-- ================= SKILL MATRIX ================= -->
-
 ## `skill.matrix`
 
 ```text
-┌──────────────────── SKILL MATRIX ────────────────────┐
+┌──────────────────────── SKILL MATRIX ──────────────────────────┐
 
   CYBERSECURITY
   ├── Security Testing
@@ -275,14 +270,12 @@ A gesture-controlled keyboard enabling users to interact with a computer through
   ├── Cloud Computing
   └── Automation
 
-└───────────────────────────────────────────────────┘
+└──────────────────────────────────────────────────────────────┘
 ```
 
 ---
 
-<!-- ================= GITHUB STATS ================= -->
-
-## `github.statistics`
+## `git stats --global`
 
 <div align="center">
 
@@ -298,21 +291,7 @@ A gesture-controlled keyboard enabling users to interact with a computer through
 
 ---
 
-<!-- ================= TROPHIES ================= -->
-
-## `achievement.unlocked`
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=heysudhuu&theme=matrix&no-frame=true&no-bg=true&margin-w=8&column=6" width="100%"/>
-
-</div>
-
----
-
-<!-- ================= ACTIVITY GRAPH ================= -->
-
-## `contribution.activity`
+## `git log --activity`
 
 <div align="center">
 
@@ -322,19 +301,25 @@ A gesture-controlled keyboard enabling users to interact with a computer through
 
 ---
 
-<!-- ================= SNAKE ================= -->
-
-## `contribution.snake`
+## `snake --render-contributions`
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/heysudhuu/heysudhuu/output/github-contribution-grid-snake.svg" width="100%" alt="GitHub Contribution Snake"/>
+<img src="https://raw.githubusercontent.com/heysudhuu/heysudhuu/output/github-contribution-grid-snake-dark.svg" width="100%" alt="GitHub Contribution Snake"/>
 
 </div>
 
 ---
 
-<!-- ================= PROFILE ACTIVITY ================= -->
+## `achievement --scan`
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=heysudhuu&theme=matrix&no-frame=true&no-bg=true&margin-w=8&column=6" width="100%"/>
+
+</div>
+
+---
 
 ## `system.activity`
 
@@ -349,8 +334,6 @@ A gesture-controlled keyboard enabling users to interact with a computer through
 </div>
 
 ---
-
-<!-- ================= INTERESTS ================= -->
 
 ## `interest.modules`
 
@@ -368,8 +351,6 @@ A gesture-controlled keyboard enabling users to interact with a computer through
 </div>
 
 ---
-
-<!-- ================= CONNECT ================= -->
 
 ## `connect.network`
 
@@ -391,28 +372,31 @@ A gesture-controlled keyboard enabling users to interact with a computer through
 <img src="https://img.shields.io/badge/INSTAGRAM-FOLLOW-FFD700?style=for-the-badge&logo=instagram&logoColor=black"/>
 </a>
 
+<a href="https://github.com/heysudhuu">
+<img src="https://img.shields.io/badge/GITHUB-ROOT-111111?style=for-the-badge&logo=github&logoColor=00FF41"/>
+</a>
+
 </div>
 
 ---
 
-<!-- ================= FOOTER ================= -->
-
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2500&pause=800&color=00FF41&center=true&vCenter=true&width=800&lines=%3E+BUILDING...;%3E+LEARNING...;%3E+BREAKING...;%3E+FIXING...;%3E+REBUILDING...;%3E+SYSTEM+EVOLUTION+CONTINUES" width="100%"/>
-
-```text
-╔══════════════════════════════════════════════════════════╗
-║                                                      ║
-║   BUILD  >  TEST  >  BREAK  >  LEARN  >  REBUILD   ║
-║                                                      ║
-║             [ SYSTEM : NEVER STOP ]                  ║
-║                                                      ║
-╚══════════════════════════════════════════════════════════╝
+```bash
+while [ "$LIFE" != "END" ]; do
+    LEARN
+    BUILD
+    BREAK_LIMITS
+    REPEAT
+done
 ```
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=0:00FF41,100:000000" width="100%"/>
+### `root@Sudhanshu:~# Stay curious. Keep building.`
 
-### `END OF TRANSMISSION`
+<sub>BUILD → TEST → BREAK → LEARN → REBUILD</sub>
+
+<br/>
+
+<sub>END OF TRANSMISSION :: 0x00FF41</sub>
 
 </div>
