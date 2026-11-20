@@ -263,11 +263,9 @@ Control virtual keyboard input using real-time hand gestures.
 
 ## 🏆 Achievement Matrix
 
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=heysudhuu&theme=matrix&no-frame=true&no-bg=true&margin-w=8" width="95%"/>
-
-</div>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=heysudhuu&theme=matrix&no-frame=true&no-bg=true&margin-w=8" width="100%" />
+</p>
 
 ---
 
