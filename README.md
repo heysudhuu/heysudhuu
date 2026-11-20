@@ -2,12 +2,13 @@
 <!-- ========================================================= -->
 <!-- SUDHANSHU YADAV | CUSTOM HACKER TERMINAL README          -->
 <!-- ========================================================= -->
-<p align="center">
-  <img src="assets/matrix_glitch_header.gif" width="100%" />
-</p>
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:000000,50:003B25,100:00FF41&text=SUDHANSHU%20YADAV&fontColor=00FF41&fontSize=42&fontAlignY=38&desc=CYBERSECURITY%20%7C%20AI%20%7C%20COMPUTER%20VISION%20%7C%20FULL%20STACK&descAlignY=60&descSize=14" width="100%"/>
+
+<p align="center">
+  <img src="assets/matrix_glitch_header.gif" width="100%" />
+</p>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=2000&pause=700&color=00FF41&center=true&vCenter=true&width=850&lines=%3E+BOOTING+DEVELOPER+SYSTEM...;%3E+CYBERSECURITY+MODULE+INITIALIZED;%3E+COMPUTER+VISION+ENGINE+ONLINE;%3E+FULL+STACK+ENVIRONMENT+READY;%3E+ACCESS+GRANTED+%7C+WELCOME+TO+MY+PROFILE" alt="Terminal animation"/>
 
