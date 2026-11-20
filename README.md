@@ -239,3 +239,15 @@ A gesture-controlled virtual keyboard that enables users to interact with their 
 <p align="center">
   <i>Turning ideas into code, and code into real-world solutions.</i>
 </p>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Cybersecurity+Enthusiast;Computer+Vision+Developer;Full+Stack+Engineer;Building+Things+That+Actually+Work" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=heysudhuu&theme=tokyonight&no-frame=true&margin-w=8" width="95%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=heysudhuu&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=heysudhuu&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+</p>
